@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @federica-dincalci
-- 👀 I’m interested in: coding on both back-end and front-end
-- 🌱 I’m currently learning: Python
+- 👀 I’m interested in: Full-Stack Web Development
+- 🌱 I’m currently learning: Backend Web Development
 - 📫 How to reach me: federica.dincalci@gmail.com
 
 <!---
